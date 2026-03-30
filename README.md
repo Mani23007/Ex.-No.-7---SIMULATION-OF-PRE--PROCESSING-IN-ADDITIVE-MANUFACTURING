@@ -1,5 +1,5 @@
-# Ex. No.  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
-### DATE: 
+# Ex. No. 6.1 - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
+### DATE: 30/03/2026
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
 
@@ -44,9 +44,16 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
+<img width="1919" height="994" alt="Exp-6 1" src="https://github.com/user-attachments/assets/9bb222ff-7a80-4453-809f-4cc5516931a9" />
+<img width="1902" height="885" alt="Exp-6 2" src="https://github.com/user-attachments/assets/b931fafd-b647-4176-b9f2-796d88ccc5c1" />
+<img width="1906" height="884" alt="Exp-6 3" src="https://github.com/user-attachments/assets/75868f1e-644a-425a-9467-cfd47d796320" />
+<img width="1919" height="893" alt="Exp-6 4" src="https://github.com/user-attachments/assets/3d37c4a3-93f4-4ae7-92d6-a361add651f4" />
+<img width="1919" height="888" alt="Exp-6 5" src="https://github.com/user-attachments/assets/f1ae779d-09ac-4fd3-b4fb-dad47ac3704c" />
+<img width="1917" height="888" alt="Exp-6 6" src="https://github.com/user-attachments/assets/45e15d42-4ed7-4453-aec2-e520f0301946" />
 
-### Name:
-### Register Number:
+
+### Name: MANIKANDAN K
+### Register Number: 212224230150
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
